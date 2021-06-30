@@ -7,3 +7,5 @@ Please if you are working directly on some core piece of the website make a new 
 We will use teams for most of our communication and file sharing/storage so if you are looking for something or someone head over there.
 
 Please let us know if you have any problems in team chat and we should be able to help out. :)
+
+yo yo
