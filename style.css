@@ -60,7 +60,7 @@ header{
   }
 
   h2{
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Source Sans Pro';
     font-weight: 400;
     /*font-style: italic */
@@ -83,7 +83,17 @@ header{
     color: #f16b4c;
     margin-left: 30px;
   }
-
+  a.help {
+    float:right;
+    text-indent: 0px;
+    font-size: 10px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
+    color: #db4927;
+    background-color: #ffdcb8;
+    margin-right: 15px;
+  }
   p
  {
     text-indent: 0px;
