@@ -26,7 +26,7 @@ header{
   background-color: #f16b4c;
 }
   ul{
-    margin-left: 10px;
+    margin-left: 25px;
   }
   ul li{
     list-style: none;
@@ -133,9 +133,14 @@ header{
 /* img classes*/
 
 .img-logo{
-  width: 150px;
+  width: 140px;
   margin-right: 0px;
-  float:right;
+  float:left;
+}
+.img-Profile{
+  width: 250px;
+  margin-right: 0px;
+  float:left;
 }
 .img-me {
   width: 730px;
