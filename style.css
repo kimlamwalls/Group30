@@ -29,9 +29,10 @@
   justify-content: flex-start;
 }
 header{
-  position: fixed;
+  position: top;
   width: 100%;
-  height: 105px;
+  min-height: 210px;
+  max-height: 210px;
   background-color: #f16b4c;
 }
   ul{
@@ -76,6 +77,8 @@ header{
     color: #f16b4c;
     margin-left: 0px;
     text-align: center;
+    min-width: 480px;
+    min-height: none;
 
   }
 
@@ -98,7 +101,7 @@ header{
   p
  {
     text-indent: 0px;
-    font-size: 16px;
+    font-size: 20px;
     font-family: 'Source Sans Pro';
     font-weight: 400;
     /*font-style: italic */
@@ -108,7 +111,7 @@ header{
     margin-right: 800px;
   }
 
-  p.Profile
+  .Profile
  {
    text-indent: 0px;
    font-size: 16px;
@@ -261,3 +264,7 @@ header{
   width: 750px;
   float:right;
 }
+#body {
+  width: 100%;
+  height: 100%;
+  }
