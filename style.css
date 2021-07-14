@@ -10,9 +10,7 @@ background-color:#facd95;
       margin:0;
       padding:0;
       font-size:100%;
-      vertical-align:baseline;
       background:transparent;
-      display:block;
   }
 
 *{
@@ -127,7 +125,7 @@ header{
     margin-right: 800px;
   }
 
-  .Profile
+  .profile p
  {
    text-indent: 0px;
    font-size: 16px;
@@ -138,6 +136,19 @@ header{
    background-color: #ffdcb8;
    margin-left: 370px;
    margin-right: 750px;
+  }
+
+  .profile h2
+ {
+   font-size: 30px;
+   font-family: 'Source Sans Pro';
+   font-weight: 400;
+   /*font-style: italic */
+   color: #f16b4c;
+   margin-left: 370px;
+   text-align: left;
+   min-width: 480px;
+   min-height: none;
   }
 
     /*ITTECHnologies BUTTONS */
@@ -218,7 +229,7 @@ transform: translateY(-50%);
     margin-left: 0px;
 }
 
-  .caption{
+  .imgcaptionright{
      margin-right: 300px;
      float:right;
      text-indent: 20px;
@@ -229,6 +240,29 @@ transform: translateY(-50%);
      color: #1b2336;
      background-color: #D8F2EC;
      margin-left: 30px;
+  }
+
+  .references p{
+    text-indent: 0px;
+    font-size: 16px;
+    font-family: 'Source Sans Pro';
+    font-weight: 200;
+    /*font-style: italic */
+    color: #db4927;
+    background-color: #ffdcb8;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .references h2{
+    font-size: 35px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
+    color: #f16b4c;
+    margin-left: 30px;
+    text-align: left;
+    min-width: 480px;
+    min-height: none;
 
   }
 .quote{
