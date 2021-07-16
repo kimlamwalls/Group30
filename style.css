@@ -297,7 +297,7 @@ transform: translateY(-50%);
   }
 
   .profile .profileblock{
-
+display:inline-block;
     width: 100%;
     height: auto;
   }
