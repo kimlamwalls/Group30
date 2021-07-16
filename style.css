@@ -258,13 +258,18 @@ transform: translateY(-50%);
 }
 
 
-  /*TEAMPROFILE PAGE */
-
+  /*TEAMPROFILE PAGE */  /*TEAMPROFILE PAGE */  /*TEAMPROFILE PAGE */  /*TEAMPROFILE PAGE */  /*TEAMPROFILE PAGE */  /*TEAMPROFILE PAGE */
+/*TEAMPROFILE PAGE */ /*TEAMPROFILE PAGE */ /*TEAMPROFILE PAGE */ /*TEAMPROFILE PAGE */ /*TEAMPROFILE PAGE */ /*TEAMPROFILE PAGE */
   .profile
   {
 
   }
 
+.testslinkcontainer{
+  position: fixed;
+  width: 10%;
+  height: auto;
+}
   .profile p
  {
    text-indent: 0px;
@@ -290,15 +295,16 @@ transform: translateY(-50%);
    min-width: 480px;
    min-height: none;
   }
+
   .profile .profileblock{
-    display: inline-block;
+
     width: 100%;
     height: auto;
-    background-color: #rgba(255, 0, 0, 0.5);
   }
 
 
-  .teamp{
+  .teamp
+  {
     text-indent: 0px;
     font-size: 16px;
     font-family: 'Source Sans Pro';
@@ -314,6 +320,8 @@ transform: translateY(-50%);
   }
   .noindent{text-indent: 0px;}
 
+  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
+    /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
   .right{
      margin-right: 300px;
      float:right;
@@ -338,6 +346,8 @@ transform: translateY(-50%);
      margin-left: 30px;
   }
 
+  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/
+  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/  /*REFERENCES PAGE*/
   .references p{
     text-indent: 0px;
     font-size: 16px;
