@@ -325,9 +325,18 @@ display:inline-block;
     margin-left: 370px;
   }
   .noindent{text-indent: 0px;}
-
+.tests
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+.tests img
+{
+  max-width: 500px;
+  max-height: 500px;
+}
   /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
-    /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
+  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
   .right{
      margin-right: 300px;
      float:right;
