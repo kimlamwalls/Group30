@@ -207,31 +207,7 @@ background-image: url(img/logo2.png);
     margin-right: 33%;
   }
 
-  .profile p
- {
-   text-indent: 0px;
-   font-size: 16px;
-   font-family: 'Source Sans Pro';
-   font-weight: 400;
-   /*font-style: italic */
-   color: #db4927;
-   background-color: #ffdcb8;
-   margin-left: 370px;
-   margin-right: 750px;
-  }
 
-  .profile h2
- {
-   font-size: 30px;
-   font-family: 'Source Sans Pro';
-   font-weight: 400;
-   /*font-style: italic */
-   color: #f16b4c;
-   margin-left: 370px;
-   text-align: left;
-   min-width: 480px;
-   min-height: none;
-  }
 
     /*ITTECHnologies BUTTONS */
 
@@ -283,6 +259,44 @@ transform: translateY(-50%);
 
 
   /*TEAMPROFILE PAGE */
+
+  .profile
+  {
+
+  }
+
+  .profile p
+ {
+   text-indent: 0px;
+   font-size: 16px;
+   font-family: 'Source Sans Pro';
+   font-weight: 400;
+   /*font-style: italic */
+   color: #db4927;
+   background-color: #ffdcb8;
+   margin-left: 370px;
+  /* margin-right: 750px;*/
+  }
+
+  .profile h2
+ {
+   font-size: 30px;
+   font-family: 'Source Sans Pro';
+   font-weight: 400;
+   /*font-style: italic */
+   color: #f16b4c;
+   margin-left: 370px;
+   text-align: left;
+   min-width: 480px;
+   min-height: none;
+  }
+  .profile .profileblock{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: #rgba(255, 0, 0, 0.5);
+  }
+
 
   .teamp{
     text-indent: 0px;
