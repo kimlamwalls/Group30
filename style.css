@@ -161,7 +161,8 @@ background-image: url(img/logo2.png);
     font-size: 50px;
     font-family: 'Source Sans Pro';
     font-weight: 800;
-    margin-left: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
     /*font-style: italic */
   }
 
@@ -175,6 +176,8 @@ background-image: url(img/logo2.png);
     text-align: center;
     min-width: 480px;
     min-height: none;
+    margin-left: 23%;
+    margin-right: 23%;
 
   }
 
@@ -184,6 +187,8 @@ background-image: url(img/logo2.png);
     font-weight: 400;
     /*font-style: italic */
     color: #f16b4c;
+    margin-left: 23%;
+    margin-right: 23%;
   }
   h5{
     font-size: 20px;
@@ -191,7 +196,8 @@ background-image: url(img/logo2.png);
     font-weight: 300;
     /*font-style: italic */
     color: #f16b4c;
-    margin-left: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
   }
 
   p
