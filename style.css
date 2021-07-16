@@ -161,7 +161,8 @@ background-image: url(img/logo2.png);
     font-size: 50px;
     font-family: 'Source Sans Pro';
     font-weight: 800;
-    margin-left: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
     /*font-style: italic */
   }
 
@@ -175,6 +176,8 @@ background-image: url(img/logo2.png);
     text-align: center;
     min-width: 480px;
     min-height: none;
+    margin-left: 23%;
+    margin-right: 23%;
 
   }
 
@@ -184,6 +187,8 @@ background-image: url(img/logo2.png);
     font-weight: 400;
     /*font-style: italic */
     color: #f16b4c;
+    margin-left: 23%;
+    margin-right: 23%;
   }
   h5{
     font-size: 20px;
@@ -191,7 +196,8 @@ background-image: url(img/logo2.png);
     font-weight: 300;
     /*font-style: italic */
     color: #f16b4c;
-    margin-left: 30px;
+    margin-left: 23%;
+    margin-right: 23%;
   }
 
   p
@@ -319,9 +325,18 @@ display:inline-block;
     margin-left: 370px;
   }
   .noindent{text-indent: 0px;}
-
+.tests
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+.tests img
+{
+  max-width: 500px;
+  max-height: 500px;
+}
   /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
-    /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
+  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
   .right{
      margin-right: 300px;
      float:right;
