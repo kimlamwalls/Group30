@@ -161,8 +161,7 @@ background-image: url(img/logo2.png);
     font-size: 50px;
     font-family: 'Source Sans Pro';
     font-weight: 800;
-    margin-left: 23%;
-    margin-right: 23%;
+    text-align: center;
     /*font-style: italic */
   }
 
@@ -172,13 +171,7 @@ background-image: url(img/logo2.png);
     font-weight: 400;
     /*font-style: italic */
     color: #f16b4c;
-    margin-left: 0px;
     text-align: center;
-    min-width: 480px;
-    min-height: none;
-    margin-left: 23%;
-    margin-right: 23%;
-
   }
 
   h3{
@@ -187,8 +180,7 @@ background-image: url(img/logo2.png);
     font-weight: 400;
     /*font-style: italic */
     color: #f16b4c;
-    margin-left: 23%;
-    margin-right: 23%;
+    text-align: center;
   }
   h5{
     font-size: 20px;
@@ -196,8 +188,7 @@ background-image: url(img/logo2.png);
     font-weight: 300;
     /*font-style: italic */
     color: #f16b4c;
-    margin-left: 23%;
-    margin-right: 23%;
+    text-align: center;
   }
 
   p
@@ -273,14 +264,42 @@ transform: translateY(-50%);
 
 .testslinkcontainer{
   position: fixed;
-  width: 10%;
-  height: auto;
+  width: 18%;
+  height: 25%;
+bottom: 50%;
+right: 3%;
+background-color: #F16B4C;
 }
-.marktest
-{
-  height: 500px;
-  width: 1000px;
+
+.testslinkcontainer:hover{
+  position: fixed;
+  width: 18%;
+  height: 25%;
+bottom: 50%;
+right: 3%;
+background-color: #FFDCB8;
 }
+
+.testslinkcontainer h1{
+  font-size: 1.8vw;
+  font-family: 'Source Sans Pro';
+  font-weight: 800;
+  /*font-style: italic */
+  color: #0C6861;
+  text-align: center;
+  padding-top: 15%;
+}
+
+.testslinkcontainer h1:hover{
+  font-size: 1.8vw;
+  font-family: 'Source Sans Pro';
+  font-weight: 800;
+  /*font-style: italic */
+  color: #f28c20;
+  text-align: center;
+  padding-top: 15%;
+}
+
   .profile p
  {
    text-indent: 0px;
@@ -337,8 +356,12 @@ display:inline-block;
 }
 .tests img
 {
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 600px;
+  max-height: 600px;
+}
+.marktest
+{
+
 }
   /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
   /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/  /*TEAMPROFILE PAGE END*/
