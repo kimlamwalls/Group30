@@ -349,9 +349,10 @@ display:inline-block;
     margin-left: 370px;
   }
   .noindent{text-indent: 0px;}
+
 .tests
 {
-  margin-left: auto;
+  margin-left: 2%;
   margin-right: auto;
 }
 .tests img
