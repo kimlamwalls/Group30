@@ -300,6 +300,44 @@ background-color: #FFDCB8;
   padding-top: 15%;
 }
 
+.reflectionlinkcontainer{
+  position: fixed;
+  width: 18%;
+  height: 25%;
+bottom: 15%;
+right: 3%;
+background-color: #F16B4C;
+}
+
+.reflectionlinkcontainer:hover{
+  position: fixed;
+  width: 18%;
+  height: 25%;
+bottom: 15%;
+right: 3%;
+background-color: #FFDCB8;
+}
+
+.reflectionlinkcontainer h1{
+  font-size: 1.8vw;
+  font-family: 'Source Sans Pro';
+  font-weight: 800;
+  /*font-style: italic */
+  color: #0C6861;
+  text-align: center;
+  padding-top: 15%;
+}
+
+.reflectionlinkcontainer h1:hover{
+  font-size: 1.8vw;
+  font-family: 'Source Sans Pro';
+  font-weight: 800;
+  /*font-style: italic */
+  color: #f28c20;
+  text-align: center;
+  padding-top: 15%;
+}
+
   .profile p
  {
    text-indent: 0px;
